@@ -1,0 +1,22 @@
+{
+  "name": "jokumer/sitemap-generator-migration",
+  "type": "typo3-cms-extension",
+  "description": "Migration for EXT:sitemap_generator to fetch EXT:dd_googlesitemap calculated change frequency",
+  "keywords": [
+    "TYPO3",
+    "extension",
+    "Google Maps"
+  ],
+  "support": {
+    "issues": "https://github.com/jokumer/TYPO3-sitemap_generator_migration"
+  },
+  "authors": [
+    {
+      "name": "J.Kummer"
+    }
+  ],
+  "license": "GPL-3.0",
+  "require": {
+    "typo3/cms": "^6.2.0 || ^7.6.0 || ^8.7.0"
+  }
+}
