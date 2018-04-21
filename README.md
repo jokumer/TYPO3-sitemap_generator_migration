@@ -22,7 +22,7 @@ and want to use calculated change frequencies as page property for extension sit
 
 ## Requirements
 
-- TYPO3 version 6.2, 7.6, 8.7
+- TYPO3 version 7.6, 8.7
 - Extension dd_googlesitemap must not be installed, but its fields must still exist for table pages (pages.tx_ddgooglesitemap_lastmod).
 - Table fields pages.tx_ddgooglesitemap_lastmod requires existing values (not for all pages)
 - Extension sitemap_generator must not be installed, but its fields must exist for table pages (pages.sitemap_changefreq).
